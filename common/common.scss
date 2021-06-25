@@ -12,3 +12,23 @@
     font-size: 5em;
     color: white;
 }
+
+.bio-space {
+    height: 100px;
+    width: 100%;
+    background: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.email-address {
+    font-size: 2em;
+    color: var(--tertiary);
+}
+
+.phone-number {
+    font-size: 2em;
+    color: var(--tertiary);
+}
