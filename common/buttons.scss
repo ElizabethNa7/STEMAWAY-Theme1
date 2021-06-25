@@ -115,7 +115,7 @@
 
 .btn-primary {
   @include btn(
-    $text-color: var(--secondary),
+    $text-color: white,
     $bg-color: var(--tertiary),
     $icon-color: var(--secondary),
     $hover-bg-color: var(--tertiary-hover),
