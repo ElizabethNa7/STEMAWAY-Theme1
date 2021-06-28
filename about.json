@@ -4,16 +4,4 @@
   "license_url": "https://github.com/ElizabethNa7/STEMAWAY-Theme1/blob/main/LICENSE"
 }
   
-"color_schemes":{
-  "primary": "15385b",
-  "secondary": "FFEEDB",
-  "tertiary": "0f82af",
-  "quaternary": "b75537",
-  "header_background": "FFBD9B",
-  "header_primary": "dddddd",
-  "highlight": "ffa13c",
-  "danger": "ed7c46",
-  "success": "3eb06a",
-  "love": "fd3d73"
-}
 
