@@ -7,20 +7,81 @@ align-items: center;
 justify-content: center;
 margin-bottom: 1em;
 }
+
+
 .header-text{
     color: #0f82af;
     font-size: 5em;
 }
-.bio-space {
-    height: 80px;
-    width: 100%;
-    background: var(--primary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+
+.footer-banner {
+height: 57px;
+width: 100%;
+background: #FFBD9B;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 0.5em;
 }
 
-.contact-info {
-    font-size: 1em;
-    color: var(--tertiary);
+
+.text {
+font-size: 5em;
+color: secondary;
 }
+
+.footer-links{
+align-items: center;
+justify-content: center;
+font-size: 1em;
+color: #0A1D37;
+}
+
+
+/*for ToS image in footer*/
+/*
+.container {
+  position: relative;
+  width: 50%;
+  
+}
+.tos-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+  padding-left:30px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  
+}*/
