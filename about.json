@@ -5,7 +5,6 @@
 }
   
 "color_schemes":{
-"Summer": {
   "primary": "15385b",
   "secondary": "FFEEDB",
   "tertiary": "0f82af",
@@ -16,7 +15,5 @@
   "danger": "ed7c46",
   "success": "3eb06a",
   "love": "fd3d73"
-}
-
 }
 }
